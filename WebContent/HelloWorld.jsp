@@ -9,6 +9,8 @@
 </head>
 <body>
 
+Commit!
+
 <%= "Hello World!" %>
 
 <form action="#" method="post">
